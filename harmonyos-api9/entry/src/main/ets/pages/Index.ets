@@ -206,7 +206,7 @@ struct Index {
           Row() {
             Button('‹ 章节').backgroundColor('#393939').onClick(() => {
               this.selectedChapter = null
-              this.chapters = this.selectedProject === null ? [] : this.reloadChapters()
+              this.reloadChapters()
             })
             Text('第' + this.selectedChapter.num + '章').fontSize(13).fontColor('#C49A5A')
             Blank()
