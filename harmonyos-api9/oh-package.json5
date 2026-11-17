@@ -1,0 +1,13 @@
+{
+  "name": "mythpen-harmonyos",
+  "version": "1.0.0",
+  "description": "Mythpen HarmonyOS API 9 native application",
+  "main": "",
+  "author": "Jerry",
+  "license": "GPL-3.0-only",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hvigor": "2.2.1",
+    "@ohos/hvigor-ohos-plugin": "2.2.1"
+  }
+}
