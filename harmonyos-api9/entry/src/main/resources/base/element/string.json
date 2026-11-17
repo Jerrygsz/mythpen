@@ -1,0 +1,7 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "Mythpen 原生小说创作" },
+    { "name": "MainAbility_desc", "value": "Mythpen 原生创作工作台" },
+    { "name": "MainAbility_label", "value": "Mythpen" }
+  ]
+}
